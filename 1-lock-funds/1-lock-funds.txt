@@ -1,0 +1,3 @@
+CommitCash (IdentCC 1) 1
+           (ConstMoney 500)
+           100 1000 Null Null
