@@ -1,0 +1,10 @@
+CommitCash (IdentCC 1) 1
+           (ConstMoney 500)
+           10 100
+           (When (PersonChoseThis (IdentChoice 1) 1 1)
+                 40
+                 (Pay (IdentPay 1) 1 2
+                      (AvailableMoney (IdentCC 1))
+                      100 Null)
+                 (RedeemCC (IdentCC 1) Null))
+           Null
