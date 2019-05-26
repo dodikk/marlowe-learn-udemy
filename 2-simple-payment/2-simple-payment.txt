@@ -1,0 +1,7 @@
+CommitCash (IdentCC 1) 1
+           (ConstMoney 500)
+           100 1000
+           (Pay (IdentPay 1) 1 2
+                (AvailableMoney (IdentCC 1))
+                1000 Null)
+           Null
